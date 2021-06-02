@@ -25,7 +25,8 @@ else:
 
 
 以上より次の図のような配置が理想であると考えた。
-![ideal_placement](../images/ABC173_D1.png) 
+<img src="images/ABC173_D1.png" width="15">
+![ideal_placement](images/ABC173_D1.png) 
 ### Details ###
 ##### sample1 #####
 ```
