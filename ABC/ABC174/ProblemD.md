@@ -1,4 +1,4 @@
-[問題へのLink (ABC174 [ProblemC])](https://atcoder.jp/contests/abc174/tasks/abc174_d)
+[問題へのLink (ABC174 [Problem])](https://atcoder.jp/contests/abc174/tasks/abc174_d)
 ### 費やした回答時間：約25分 ###
 ### Source Code ###
 ```
