@@ -1,4 +1,5 @@
-### 回答時間：約10分 ###
+[問題へのLink (ABC173 [ProblemC])](https://atcoder.jp/contests/abc173/tasks/abc173_c)
+### 費やした回答時間：約10分 ###
 ### Source Code ###
 ```
 from itertools import product
