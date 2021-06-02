@@ -1,3 +1,4 @@
+### 回答時間：約10分 ###
 ### Source Code ###
 ```
 from itertools import product
