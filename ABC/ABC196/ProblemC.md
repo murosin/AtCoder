@@ -1,5 +1,5 @@
 [問題へのLink (ABC196 [ProblemC])](https://atcoder.jp/contests/abc196/tasks/abc196_c)
-### 費やした回答時間：約13分 ###
+### 費やした回答時間：約13分 (2021/06/03) ###
 ### Source Code ###
 ```
 N = input()
