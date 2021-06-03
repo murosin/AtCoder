@@ -1,5 +1,5 @@
 [問題へのLink (ABC193 [ProblemD])](https://atcoder.jp/contests/abc193/tasks/abc193_d)
-### 費やした回答時間：約40分 ###
+### 費やした回答時間：約40分 (2021/06/03) ###
 ### Source Code ###
 ```
 import copy
