@@ -1,5 +1,5 @@
 [問題へのLink (ABC173 [ProblemD])](https://atcoder.jp/contests/abc173/tasks/abc173_d)
-### 費やした回答時間：約50分 ###
+### 費やした回答時間：約50分 (2021/06/02) ###
 ### Source Code ###
 ```
 N = int(input())
