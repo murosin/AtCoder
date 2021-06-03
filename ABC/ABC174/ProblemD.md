@@ -1,5 +1,5 @@
 [問題へのLink (ABC174 [Problem])](https://atcoder.jp/contests/abc174/tasks/abc174_d)
-### 費やした回答時間：約25分 ###
+### 費やした回答時間：約25分 (2021/06/03) ###
 ### Source Code ###
 ```
 N = int(input())
