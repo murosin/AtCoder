@@ -1,5 +1,5 @@
 [問題へのLink (ABC195 [ProblemD])](https://atcoder.jp/contests/abc195/tasks/abc195_d)
-### 費やした回答時間：約37分 ###
+### 費やした回答時間：約37分 (2021/06/03) ###
 ### Source Code ###
 ```
 N, M, Q = map(int,input().split())
