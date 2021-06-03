@@ -1,5 +1,5 @@
 [問題へのLink (ABC183 [ProblemD])](https://atcoder.jp/contests/abc183/tasks/abc183_d)
-### 費やした回答時間：約20分 (2021/06/03)###
+### 費やした回答時間：約20分 (2021/06/03) ###
 ### Source Code ###
 ```
 N, W = map(int,input().split())
