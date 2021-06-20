@@ -45,7 +45,7 @@ print(ans)
 1 5 3 2 5 2 3 1
 ```
 
-1. 入力、及びリストAのsort処理
+1. 入力処理
 ```
 N = int(input())
 A = list(map(int,input().split()))
